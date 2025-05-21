@@ -262,21 +262,21 @@ class FishingSpot {
       name: 'Chao Phraya River',
       details: 'Popular riverside location with plenty of space and good water flow.',
       distance: '6 km.',
-      image: '../assets/river1.jpg',
+      image: 'assets/river1.jpg',
     ));
 
     list.add(FishingSpot(
       name: 'Bang Kachao Canal',
       details: 'Quiet spot surrounded by greenery. Best during early mornings.',
       distance: '8 km.',
-      image: '../assets/river2.jpg',
+      image: 'assets/river2.jpg',
     ));
 
     list.add(FishingSpot(
       name: 'Phra Khanong Canal',
       details: 'Local favorite with quiet corners. Great for catching catfish.',
       distance: '10 km.',
-      image: '../assets/river3.jpg',
+      image: 'assets/river3.jpg',
     ));
 
     return list;
